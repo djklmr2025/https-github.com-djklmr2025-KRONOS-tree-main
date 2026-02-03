@@ -1,0 +1,5 @@
+{
+  "name": "KRONOS - Keyboard Activity Analyst",
+  "description": "A high-performance keyboard activity logger and analyzer that captures keystrokes, timing, and patterns within the web environment, providing detailed session reports and downloadable logs.",
+  "requestFramePermissions": []
+}
